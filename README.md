@@ -11,6 +11,12 @@ Explain the purpose of this analysis.
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
+Table 1: June Temperature Statistics:
+
+
+Table 2: Decemember Temperature Statistics:
+https://raw.githubusercontent.com/djaiello/Module9Challenge/a94545c2fe3443f1826bf603a2c9b7ec8fbe25ea/Result%20Images/Dec_Temp_Stats.PNG
+
 ## Summary:
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)

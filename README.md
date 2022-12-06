@@ -1,10 +1,8 @@
 # Module9Challenge
-For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
 
 ## Overview of the statistical analysis:
+The client wants more information about temperature trends before opening their surf shop. They want temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.  In addition they want two recommendations for further analysis pertaining to the business.
 
-The purpose of the analysis is well defined. (3 pt)
-Explain the purpose of this analysis.
 
 ## Results:
 

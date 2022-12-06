@@ -12,7 +12,7 @@ There is a bulleted list that addresses the three key differences in weather bet
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
 Table 1: June Temperature Statistics:
-
+https://raw.githubusercontent.com/djaiello/Module9Challenge/a94545c2fe3443f1826bf603a2c9b7ec8fbe25ea/Result%20Images/June_Temp_Stats.PNG
 
 Table 2: Decemember Temperature Statistics:
 https://raw.githubusercontent.com/djaiello/Module9Challenge/a94545c2fe3443f1826bf603a2c9b7ec8fbe25ea/Result%20Images/Dec_Temp_Stats.PNG

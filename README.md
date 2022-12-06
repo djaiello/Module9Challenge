@@ -9,12 +9,12 @@ The client wants more information about temperature trends before opening their 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
-Table 1: June Temperature Statistics:
+#### Table 1: June Temperature Statistics:
 https://raw.githubusercontent.com/djaiello/Module9Challenge/a94545c2fe3443f1826bf603a2c9b7ec8fbe25ea/Result%20Images/June_Temp_Stats.PNG
 
 ![image](https://user-images.githubusercontent.com/114360511/205823277-5301b745-af8f-42e7-989f-16b5a0dfba5c.png)
 
-Table 2: December Temperature Statistics:
+#### Table 2: December Temperature Statistics:
 https://raw.githubusercontent.com/djaiello/Module9Challenge/a94545c2fe3443f1826bf603a2c9b7ec8fbe25ea/Result%20Images/Dec_Temp_Stats.PNG
 
 ![image](https://user-images.githubusercontent.com/114360511/205823196-86445072-7208-4056-b1ff-9704940be0a2.png)

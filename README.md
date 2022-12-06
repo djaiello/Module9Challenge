@@ -1,13 +1,15 @@
 # Module9Challenge
 
-## Overview of the statistical analysis:
+## Overview of the Statistical Analysis
 The client wants more information about temperature trends before opening their surf shop. They want temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.  In addition they want two recommendations for further analysis pertaining to the business.
 
 
-## Results:
+## Results
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+### Key differences in weather between June and December:
+- Difference 1
+- Difference 2
+- Difference 3
 
 #### Table 1: June Temperature Statistics:
 https://raw.githubusercontent.com/djaiello/Module9Challenge/a94545c2fe3443f1826bf603a2c9b7ec8fbe25ea/Result%20Images/June_Temp_Stats.PNG
@@ -20,7 +22,7 @@ https://raw.githubusercontent.com/djaiello/Module9Challenge/a94545c2fe3443f1826b
 ![image](https://user-images.githubusercontent.com/114360511/205823196-86445072-7208-4056-b1ff-9704940be0a2.png)
 
 
-## Summary:
+## Summary
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.

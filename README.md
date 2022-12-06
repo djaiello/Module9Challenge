@@ -15,6 +15,7 @@ Table 1: June Temperature Statistics:
 https://raw.githubusercontent.com/djaiello/Module9Challenge/a94545c2fe3443f1826bf603a2c9b7ec8fbe25ea/Result%20Images/June_Temp_Stats.PNG
 
 Table 2: Decemember Temperature Statistics:
+![image](https://user-images.githubusercontent.com/114360511/205823196-86445072-7208-4056-b1ff-9704940be0a2.png)
 https://raw.githubusercontent.com/djaiello/Module9Challenge/a94545c2fe3443f1826bf603a2c9b7ec8fbe25ea/Result%20Images/Dec_Temp_Stats.PNG
 
 ## Summary:

@@ -26,4 +26,4 @@ https://raw.githubusercontent.com/djaiello/Module9Challenge/a94545c2fe3443f1826b
 
    The results above show that on the island of Oahu, the temperature appears to be in favor of a surf and ice cream shop year-round.  Comparing between June and December, the average temperature only differs by 4 degrees, historically, with very comperable standard deviations.  This weather history appears to show room for many profitable days even in cold weather months. 
 
-   In an effort to gather more data for this project, two additional queries for might include 
+   In an effort to gather more data for this project, two additional queries for might include a June/December statistical analysis of the water temperature and a June/December statistical analysis of the wind speed and direction.  While the air temperature may remain relatively stable year-round, ocean currents may show large difference, affecting people's choice to swim/surf.  In addition, surfers are drawn to location by waves, which are generated and sustained by wind speed and proper direction.

@@ -24,5 +24,6 @@ https://raw.githubusercontent.com/djaiello/Module9Challenge/a94545c2fe3443f1826b
 
 ## Summary
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+   The results above show that on the island of Oahu, the temperature appears to be in favor of a surf and ice cream shop year-round.  Comparing between June and December, the average temperature only differs by 4 degrees, historically, with very comperable standard deviations.  This weather history appears to show room for many profitable days even in cold weather months. 
+
+   In an effort to gather more data for this project, two additional queries for might include 

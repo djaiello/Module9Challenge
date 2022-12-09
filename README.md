@@ -7,9 +7,9 @@ The client wants more information about temperature trends before opening their 
 ## Results
 
 ### Key differences in weather between June and December:
-- Difference 1
-- Difference 2
-- Difference 3
+- The mean temperature in December (71.0) was almost 4 degrees colder than in June (74.9).
+- The minimum temperature in December(56.0) was 8 degrees colder than in June (64.0).
+- The maximum temperature in June(85.0) was only 2 degrees warmer than in Decemeber (83.0).
 
 #### Table 1: June Temperature Statistics:
 https://raw.githubusercontent.com/djaiello/Module9Challenge/a94545c2fe3443f1826bf603a2c9b7ec8fbe25ea/Result%20Images/June_Temp_Stats.PNG
